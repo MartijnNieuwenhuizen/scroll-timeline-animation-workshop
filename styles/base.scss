@@ -1,0 +1,9 @@
+:global(html) {
+	scroll-timeline-name: --page-scroll;
+	// OR
+	// scroll-timeline: --page-scroll block;
+}
+
+:global(body) {
+	font-family: sans-serif;
+}
